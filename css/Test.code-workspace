@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "../../../Website"
+		},
+		{
+			"path": "../../fonts.googleapis.com"
+		},
+		{
+			"path": "../../fonts.gstatic.com"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../tomfoolery"
+		},
+		{
+			"path": "../../fonts.gstatic.com/s"
+		},
+		{
+			"path": "../../fonts.gstatic.com/s/merriweather"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Website"
+	}
+}
